@@ -1,4 +1,4 @@
-# Bayesian-Neural-Network-Pytorch
+# Bayesian-Neural-Network
 
 <p>
   <a href="LICENSE"><img alt="MIT License" src="https://img.shields.io/github/license/Harry24k/bayesian-neural-network-pytorch" /></a>
