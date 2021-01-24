@@ -1,4 +1,4 @@
-# Bayesian-Neural-Network
+# Bayesian Neural Network
 
 <p>
   <a href="LICENSE"><img alt="MIT License" src="https://img.shields.io/github/license/Harry24k/bayesian-neural-network-pytorch" /></a>
@@ -17,6 +17,7 @@ This is a lightweight repository of bayesian neural network for PyTorch.
 
 
 ### Bayesian Deep Learning
+Bayesian deep learning encompasses the intersection between probabilistic Bayesian methods and the popular deep learning. Check out [here](https://robinjackon-ai.medium.com/a-primer-for-bayesian-deep-learning-part-1-4cb3a3ff574d) for more info.
 
 * **Bayesian Neural Network Regression** ([code](bnn_regression.ipynb)): 
 Here, two-layer bayesian neural network is constructed and trained on simple custom data. It shows how bayesian-neural-network works and randomness of the model.
